@@ -52,7 +52,7 @@
 		"jade": "~1.11.0",
 		"js-yaml": "~3.8.1",
 		"lighthouse": "^4.2.0",
-		"lodash": "~4.17.4",
+		"lodash": "~4.17.19",
 		"minimist": "~1.2.0",
 		"pre-commit": "^1.2.2",
 		"prettier": "^1.16.4",
